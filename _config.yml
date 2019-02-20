@@ -64,6 +64,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
   - jekyll-default-layout
+  - jekyll-commonmark
+  - jekyll-include-cache
+  - liquid-c
   - jemoji
 
 #remote_theme: daviddarnes/alembic
