@@ -54,10 +54,10 @@ collections:
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: alembic-jekyll-theme
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+    #  - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-mentions
   - jekyll-paginate
@@ -66,7 +66,7 @@ plugins:
   - jekyll-default-layout
   - jemoji
 
-remote_theme: daviddarnes/alembic
+#remote_theme: daviddarnes/alembic
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
