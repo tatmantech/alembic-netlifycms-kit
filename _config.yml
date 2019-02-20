@@ -16,6 +16,7 @@ plugins:
 - jekyll-redirect-from
 - jekyll-default-layout
 - jekyll-feed
+- liquid-c
 - jemoji
 
 # Site settings
