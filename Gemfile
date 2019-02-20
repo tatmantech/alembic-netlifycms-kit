@@ -1,15 +1,11 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "jekyll", "~> 3.7"
-gem "alembic-jekyll-theme", "~> 3.0.3"
-gem "jekyll-sitemap", "~> 0.13"
-gem "jekyll-mentions", "~> 1.2"
-gem "jekyll-paginate", "~> 1.1"
-gem "jekyll-seo-tag", "~> 2.3"
-gem "jekyll-redirect-from", "~> 0.12"
-gem "jekyll-default-layout", "~> 0.1"
-gem "jekyll-feed", "~> 0.9"
-gem "jekyll-commonmark", "~> 1.2"
-gem "jekyll-include-cache", "~> 0.1"
-gem "jemoji", "~> 0.9"
-gem "liquid-c", "~> 4.0"
+gem 'jekyll', '3.7.2'
+
+group :jekyll_plugins do
+  gem 'jekyll-archives', '2.1.1'
+  gem 'jekyll-feed', '0.9.3'
+  gem 'jekyll-paginate', '1.1.0'
+  gem 'jekyll-seo-tag', '2.4.0'
+  gem 'jekyll-sitemap', '1.2.0'
+end
