@@ -4,7 +4,7 @@ Props to Alembic [as a Jekyll theme gem](https://alembic.darn.es/#as-a-jekyll-th
 
 Ye Olde Security Issues: [CVE-2018-17567](https://nvd.nist.gov/vuln/detail/CVE-2018-17567)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tatmantech/alembic-netlifycms-kit)
 
 ### oh wait... we already deployed!
 
